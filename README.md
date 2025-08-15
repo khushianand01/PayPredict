@@ -5,8 +5,8 @@ Tech Stack
 
 The project is built on the Python programming language. It leverages the Flask framework for the user interface and several powerful libraries for data analysis, visualization, and machine learning. The key libraries used are:
 
-NumPy and Pandas: Used for fundamental data manipulation and analysis.
+• NumPy and Pandas: Used for fundamental data manipulation and analysis.
 
-Matplotlib and Seaborn: Used for creating both static and interactive data visualizations.
+• Matplotlib and Seaborn: Used for creating both static and interactive data visualizations.
 
-Scikit-learn (sklearn): A comprehensive library for machine learning algorithms
+• Scikit-learn (sklearn): A comprehensive library for machine learning algorithms
